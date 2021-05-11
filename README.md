@@ -10,6 +10,7 @@
 - [Project Description](#project-description)
 - [Collecting the Data](#collecting-the-data)
 - [Workflow](#workflow)
+- [Improvements](#improvements)
 - [Links](#links)
 
 ## Project Description
@@ -39,6 +40,8 @@ The goal of this project was to collect information from Caterpillar's new equip
 5. To go further, I accessed the page of each model from all the types of equipment with Selenium, where I needed to click to 'expand' the information. 
 6. I looped trou all the pages retrieving and storing (concat) the information into a data frame.
 7. Data Cleaning (in processing)
+
+## Improvements
 
 ## Links
 
